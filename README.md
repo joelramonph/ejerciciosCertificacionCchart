@@ -1,2 +1,2 @@
-# ejerciciosCertificacionCchart
-directorio de  ejercicios C#
+ #Certificacion Fundamentos C# con FreeCodeCamp.
+Contenido
